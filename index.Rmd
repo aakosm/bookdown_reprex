@@ -1,0 +1,10 @@
+---
+title: "example bookdown project"
+date: "`r Sys.time()`"
+output:
+  bookdown::gitbook: default
+---
+
+# Preface {-}
+
+In this book, we will introduce an interesting method.
